@@ -1,4 +1,7 @@
-print(sum(1,2))
+a=1
+b=2
+c=a+b
+print(c)
 #arithmetic operator
 print(5+5)
 
@@ -22,7 +25,7 @@ print(1==2)
 
 print(1!=2)
 
-prin(1<2)
+print(1<2)
 
 print(2>3)
 
