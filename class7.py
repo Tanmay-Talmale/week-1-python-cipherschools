@@ -7,7 +7,7 @@ while a<10:
 battery=input()
 while battery.notDead():
     pass   
-name = "meehir"
+name = "tanmay"
 name.__iter__
 print(type(name))
 print("***")
