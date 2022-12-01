@@ -7,7 +7,7 @@ for i in range(n):
 n=9
 for i in range(n):
     for j in range(n):
-        print(max(i+1,j+1,n-i,n-j,end=" "))
+        print(max(i+1,j+1,n-i,n-j),end=" ")
     print()
 
 max(1,2,3,4)
